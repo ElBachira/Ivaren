@@ -41,61 +41,45 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- 2. SISTEMA DE REPRODUCTOR DE MÚSICA ---
     const songs = [
         {
-            title: "Supermassive Black Hole",
-            artist: "Muse",
+            title: "Te Sigo Amando",
+            artist: "Juan Gabriel",
             src: "song.mp3", 
-            lyrics: `Ooh nena, ¿no sabes que sufro?
-Ooh nena, ¿puedes oírme gemir?
-Me atrapaste bajo falsas apariencias
-¿Cuánto falta para que me dejes ir?
-
-Ooh
-Enciendes mi alma
-Ooh
-Enciendes mi alma
-
-Glaciares derritiéndose en plena noche (ooh)
-Y las superestrellas succionadas hacia el supermasivo (enciendes mi alma)
-Glaciares derritiéndose en plena noche
-Y las superestrellas succionadas hacia el (enciendes mi alma)
-(Hacia el supermasivo)
-
-Pensé que no era el tonto de nadie
-Ooh nena, soy un tonto por ti
-Eres la reina de lo superficial
-¿Y cuánto pasará antes de que digas la verdad?
-
-Ooh
-Enciendes mi alma
-Ooh
-Enciendes mi alma
-
-Glaciares derritiéndose en plena noche (ooh)
-Y las superestrellas succionadas hacia el supermasivo (enciendes mi alma)
-Glaciares derritiéndose en plena noche
-Y las superestrellas succionadas hacia el (enciendes mi alma)
-(Hacia el supermasivo)
-
-Agujero negro supermasivo
-Agujero negro supermasivo
-Agujero negro supermasivo
-Agujero negro supermasivo
-
-Glaciares derritiéndose en plena noche
-Y las superestrellas succionadas hacia el supermasivo
-Glaciares derritiéndose en plena noche
-Y las superestrellas succionadas hacia el supermasivo
-
-Glaciares derritiéndose en plena noche (ooh)
-Y las superestrellas succionadas hacia el supermasivo (enciendes mi alma)
-Glaciares derritiéndose en plena noche
-Y las superestrellas succionadas hacia el (enciendes mi alma)
-(Hacia el supermasivo)
-
-Agujero negro supermasivo
-Agujero negro supermasivo
-Agujero negro supermasivo
-Agujero negro supermasivo`,
+            lyrics: `Que seas muy feliz
+Estés donde estés
+Cariño
+No importa que ya
+No vuelvas jamás
+Conmigo
+Deseo, mi amor
+Que sepas también
+Que te amo
+Que no te olvidé
+Que nunca podré
+Te extraño
+Que seas muy feliz
+Que encuentres amor
+Mi vida
+Que nunca, mi amor
+Te digan adiós
+Un día
+Perdóname, mi amor, por todo el tiempo que te amé, te hice daño
+Te amé de más y fue mi error, qué soledad, estoy sin ti, lo estoy pagando
+Que seas muy feliz
+Que seas muy feliz
+Mientras que yo
+Te sigo amando
+Deseo, mi amor
+Que sepas también
+Que te amo
+Que no te olvidé
+Que nunca podré
+Te extraño
+Perdóname, mi amor, por todo el tiempo que te amé, te hice daño
+Te amé de más y fue mi error, qué soledad, estoy sin ti, lo estoy pagando
+Que seas muy feliz
+Que seas muy feliz
+Mientras que yo
+¡Te sigo amando!`,
         }
     ];
 
@@ -211,6 +195,5 @@ Agujero negro supermasivo`,
         }
     };
 });
-
 
 
